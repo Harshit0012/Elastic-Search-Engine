@@ -1,0 +1,36 @@
+{
+  "engineName": "mental-health",
+  "endpointBase": "https://careanatomy.ent.us-west1.gcp.cloud.es.io",
+  "searchKey": "search-p5uj3ooz6awt6db6s97zbgzq",
+  "resultFields": [
+    "url_path_dir3",
+    "additional_urls",
+    "keywords",
+    "body_content",
+    "domains",
+    "description",
+    "title",
+    "meta_keywords",
+    "type",
+    "body",
+    "url",
+    "url_scheme",
+    "meta_description",
+    "headings",
+    "links",
+    "url_port",
+    "url_host",
+    "url_path_dir2",
+    "url_path",
+    "url_path_dir1",
+    "id"
+  ],
+  "sortFields": [
+    "meta_description"
+  ],
+  "facets": [
+    "links"
+  ],
+  "titleField": "title",
+  "urlField": "url"
+}
